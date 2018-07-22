@@ -20,10 +20,6 @@ import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentPagerAdapter;
 
-/**
- * {@link CategoryAdapter} is a {@link FragmentPagerAdapter} that can provide the layout for
- * each list item based on a data source which is a list of {@link Word} objects.
- */
 public class CategoryAdapter extends FragmentPagerAdapter {
 
     /** Context of the app */
